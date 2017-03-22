@@ -14,7 +14,5 @@ Viele dieser Fragen versuche ich zu Beantworten. Ich hoffe es klappt einigermaß
 
 # Kann ich hier mitmachen?
 
-Wenn du einen Fehler findest, Verbesserungsvorschläge hast oder irgendwie anders mitmischen willst kannst du gerne auf Github Feedback geben.
-
-https://github.com/howto-root/website
+Wenn du einen Fehler findest, Verbesserungsvorschläge hast oder irgendwie anders mitmischen willst kannst du gerne auf [Github-Projektseite](https://github.com/howto-root/website) Feedback geben.
 
