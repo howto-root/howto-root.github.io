@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Dateiupload in Nextcloud aus der Konsole
-date:   2017-03-13 19:57:38 +0100
+date:   2017-11-12 19:57:38 +0100
 categories: owncloud nextcloud share password bash console cli
 ---
 Mit diesem Bash-Script kannst du Dateien mit einem einzigen Befehl in Nextcloud hochladen und Passwortgeschützt freigeben.
